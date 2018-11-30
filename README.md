@@ -12,3 +12,9 @@ To send the filtered temperature sensor module output to cosmossDB
 The filtered data is pushed to DB
 
 ![COSMOSSDB DOCS](CosmosDBOutput.PNG)
+
+## Dependend repositories
+
+1. https://github.com/SURAJTHEGREAT/toAzureEventsHubCosmosDB
+2. https://github.com/SURAJTHEGREAT/azureEdgeSensorFilter
+3. https://github.com/SURAJTHEGREAT/azureIotEdgeTempSensor
