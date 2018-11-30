@@ -2,7 +2,7 @@
 ## Goal
 To send the filtered temperature sensor module output to cosmossDB 
 ## Development Language 
- C#
+ C# .NET FRAMEWORK
 ## Refered from 
 1. Pluralsight course
 2. https://docs.microsoft.com/en-us/azure/cosmos-db/create-sql-api-dotnet 
